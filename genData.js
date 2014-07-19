@@ -18,10 +18,10 @@ gazaDeaths.getJSON = function(filename) {
             name: '',
             age: null,
             gender: null,
-            killingLocation: null 
+            killingLocation: null
         }
         humanBeing.name = dead[l].match(/((\w|\-)+\s){1,4}(\w|\-)+/)[0]
-        humanBeing.age  = dead[l].match(/\s\d{1,3}/)
+        humanBeing.age  = dead[l].match(/(\s|\()\d{1,3}/)
         humanBeing.killingLocation = dead[l].match(/killed in ([A-Za-z \-]+)/) || dead[l].match(/ ([A-Z][A-Za-z \-]+)(\.|$)/)
         if (humanBeing.age) {
             humanBeing.age = humanBeing.age[0].substring(1)
