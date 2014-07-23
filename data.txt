@@ -610,57 +610,57 @@
 
 307. Raed Walid Laqqan, 27, in Khan Younis
 
-308. Mohamed Jihad al-Kara (29) Khan Younis
+308. Mohamed Jihad al-Kara, 29, Khan Younis
 
-309. Rochdi Khaked Nasr (24) Khan Younis
+309. Rochdi Khaked Nasr, 24, Khan Younis
 
-310. Raed Walid Laqqan (27) Khan Younis
+310. Raed Walid Laqqan, 27, Khan Younis
 
-311. Raafat Ali Bahloul (36) Khan Younis (Female)
+311. Raafat Ali Bahloul, 36, Khan Younis (Female)
 
-312. Bilal Ismaeel Abu Daqqa (33) Khan Younis
+312. Bilal Ismaeel Abu Daqqa, 33, Khan Younis
 
-313. Mohamed Ismaeel Samour (21) Khan Younis
+313. Mohamed Ismaeel Samour, 21,  Khan Younis
 
-314. Ismaeel Ramadan al-Loulhi (21) Khan Younis
+314. Ismaeel Ramadan al-Loulhi, 21, Khan Younis
 
-315. Mohamed Ziad al-Rahl (6) Beit Lahia
+315. Mohamed Ziad al-Rahl, 6, Beit Lahia
 
-316. Mohamed Abu Zaanouna (36) Gaza
+316. Mohamed Abu Zaanouna, 36, Gaza
 
-317. Mohamed Rafiq al-Rahl (22) Beit Lahia
+317. Mohamed Rafiq al-Rahl, 22, Beit Lahia
 
-318. Fadhl Mohamed al-Banna (29) Jbalya
+318. Fadhl Mohamed al-Banna, 29, Jbalya
 
-319. Mohamed Atallah Awda Saadat (25) Beit Hanoun
+319. Mohamed Atallah Awda Saadat, 25, Beit Hanoun
 
-320. Mohamed Abel Rahman Abu Hamad (25) Beit Lahia
+320. Mohamed Abel Rahman Abu Hamad, 25, Beit Lahia
 
-321. Maali Abu Zeid al-Wasta (24) location unknown (Female)
+321. Maali Abu Zeid al-Wasta, 24, location unknown
 
-322. Mahmoud Abdel Hamid al-Zouaydi (23) Beit Lahia
+322. Mahmoud Abdel Hamid al-Zouaydi, 23, Beit Lahia
 
-323. Dalia Abdel Hamid al-Zouaydi (37) Beit Lahia (Female)
+323. Dalia Abdel Hamid al-Zouaydi, 37, Beit Lahia (Female)
 
-324. Rouya Mahmoud al-Zouaydi (6) Beit Lahia (Female)
+324. Rouya Mahmoud al-Zouaydi, 6, Beit Lahia (Female)
 
-325. Nagham Mahmoud al-Zouaydi (2) Beit Lahia (Female)
+325. Nagham Mahmoud al-Zouaydi, 2, Beit Lahia (Female)
 
-326. Ahmed Hamouda (10) Beit Lahia
+326. Ahmed Hamouda, 10, Beit Lahia
 
-327. Omar hamouda (7) Beit Lahia
+327. Omar hamouda, 7, Beit Lahia
 
-328. Mohamed Rezq Mohamed Hamouda (18) Beit Lahia
+328. Mohamed Rezq Mohamed Hamouda, 18, Beit Lahia
 
-329. Mohamed Khaled Jamil al-Zouaydi (20) Beit Lahia
+329. Mohamed Khaled Jamil al-Zouaydi, 20, Beit Lahia
 
-330. Mohamed Ahmed al-Saaedi (18)
+330. Mohamed Ahmed al-Saaedi, 18
 
-331. Tarek al-Hattou (26)
+331. Tarek al-Hattou, 26
 
-332. Mahmoud al-Sherif (24)
+332. mahmoud al-Sherif, 24
 
-333. Abdel Rahman Barrack (23)
+333. Abdel Rahman Barrack, 23
 
 334. Mahmoud Anwar abu-shabab 16 killed in rafah.
 
@@ -698,13 +698,13 @@
 
 351. Ahmed Tawqeeq Zanoon, 26, killed in Rafah
 
-352. Suhaib Ali Juma Abu-qurat, 21, killed in Rafah
+352. Suhaib Ali Juma Abu-qurat, 21, killed in Rafah (Female)
 
 353. Asama Khalil Alhay, unidentified, unidentified
 
 354. Khalil Asama Alhay, unidentified, unidentified
 
-355. Amamat asama Alhay, unidentified, unidentified (Female)
+355. Amamat asama Alhay, unidentified, unidentified
 
 356. Hala Saqir Abu-heen, unidentified, unidentified (Female)
 
@@ -731,3 +731,451 @@
 367. Al-Masaf Fooad Jabir, Unidentified, Palestinian medic killed in Al-Shujayea area
 
 368. Khalid Hamid, Unidentified, Palestinian journalist killed in Al-Shujayea area
+
+371. Samar Osama Al Halaq, 29, killed in El-Ramal (Female)
+
+372. Kanan Akram Al Halaq, 5, killed in El-Ramal
+
+373. Hany Mohamed Al Halaq, 29, killed in El-Ramal
+
+374. Souad Mohamed Al Halaq, 62, killed in El-Ramal
+
+375. Saji Al Halaq, age still unreported, killed in El-Ramal
+
+376. Ibrahim Khalil Ammar, age still unreported, killed in El-Ramal
+
+377. Ahmed Yassen, age still unreported, killed in El-Ramal
+
+379. Rayan Tayseer Abo Jamea, 8, killed in Khan Younis
+
+380. Fatma Mahmoud Abo Jamea, 80, killed in east Khan Younis (Female)
+
+381. Manwa Abdelbasset Ahmed Al Sabea, 37, killed in Beit Hanoun (Female)
+
+382. Osama Khalil Ismeal Al Hayya, 30
+
+383. Osama Rabahi Shata Ayyad, 31
+
+384. Ibrahim Aref Ibrahim al Ghallayeeni, 26
+
+385. Israa Yasser Atiya Hamdeeya, 28 (Female)
+
+386. Akram Mohammed Ali Alsakafi, 63
+
+387. Eman Khalil Abd Ammar, 9
+
+388. Eman Mohammed Ibrahim Hamada, 40
+
+389. Ahmed Izhaq Yousif al Ramlawi, 33
+
+390. Ahmed Sami Diab Ayyad, 27
+
+391. Ahmed Mohammed Ahmed Abu Zaanoona, 28
+
+392. Omama Osama Khalil al Hayaa, 9
+
+393. Tala Akram Ahmed al Atoowi, 7 (Female)
+
+394. Tawfiq Brawi Salem Marshood, 52
+
+395. Hatem Ziyad Ali al Zaboot, 24
+
+396. Mohammed Riyad Mohammed Hamed, 25
+
+397. Khadijah Ali Mousa Shehada, 62 (Female)
+
+398. Khalil Osama Khalil al Hayya, 7
+
+399. Khalil Salem Ibrahim Mosbih,  53
+
+400. Deema Adel Abdullah Asleem, 2 (Female)
+
+401. Dina Rushdi Omar Hammada, 15 (Female)
+
+402. Rahaf Akram Ismeal Abu Juma, 4 (Female)
+
+403. Saji Hassan Akram al Hallaq, 4
+
+404. Samya Hamed Mohammed Alshiekh Khalil, 3 (Female)
+
+405. Soad Mohammed AbdulRazaq al Hallaq, 62 (Female)
+
+406. Samer Osama Khalil al Hallaq, 29
+
+407. Shadi Ziyad Hassan Isleem, 15
+
+408. Shireen Fathi Othman Ayyad, 18 (Female)
+
+409. Adel Abdullah Salem Isleem, 39
+
+410. Assem Khalil Abd Ammar, 4
+
+411. Ahed Saad Mousa al Sirsik, 30
+
+412. Aisha Ali Mahmood Ziyad, 54 (Female)
+
+413. Abdul Rahman Akram Mohammed al Sekafi, 22
+
+414. AbdulRahman AbdulRazq AbdulRahman Alshaikh Khalil, 24
+
+415. Abdullah Mansour Radhwan Ammarah, 23
+
+416. Abed Rabouh Ahmed Mohammed Ziyad, 58
+
+417. Assem Atiah Saeed al Sekafi, 26
+
+418. Alaa Ziyad Hassan Isleem, 11
+
+419. Alaa jamal Aldeen Mohammed Bardaa, 35
+
+420. Ali Mohammed Hassan al Sekafi, 27
+
+421. Omar Jameel Soubhi Hamoodeh, 10
+
+422. Ghada Soubhi Saedi Ayyad, 9 (Female)
+
+423. Ghada Ibrahim Sulieman Adwan, 39 (Female)
+
+424. Fadi Ziyad Hassan Isleem, 10
+
+425. Fatima AbdulRahim AbdulKadir Abu Amooneh, 55 (Female)
+
+426. Fidaa Rafiq Diab Ayyad, 24
+
+427. Fahmi AbdulAziz Saad Abu Saeed, 29
+
+428. Kanan Hassan Akram al Hallaq, 6
+
+429. Maysa AbdulRahman Saeed al Sarsaw, 37 (Female)
+
+430. Mohammed Ashraf Rafiq Ayyad, 6
+
+431. Sakafi al Mohammed Hassan Mohammed Al Sakafi, 53
+
+432. Mohammed Rami Fathi Ayyad, 2
+
+433. Mohammed Raed Ihsan Akeela, 19
+
+434. Mohammed Ziyad Ali al Zaaboot 23
+
+435. Mohammed Mohammed Ali Mouhareb Jundiya, 38
+
+436. Mohammed Hani Mohammed al Hallaq, 2
+
+437. Marah Shaker Ahmed al Jama, 11 (Female)
+
+438. Marwan Mounir Saleh Kunfouth, 23
+
+439. Marwan Salman Ahmed Al Sarsaw, 13
+
+440. Mousaab alKhair Saleh Aldeen Saeed Al Sekaf, 27
+
+441. Mona Suleiman Ahmed Alshiekh Khalil, 49 (Female)
+
+442. Mona AbdulRahman Mahmood Ayyad, 24 (Female)
+
+443. Narmeen Rafiq Diab Ayyad, 20 (Female)
+
+444. Hala Akram Hassan al Hallaq, 27 (Female)
+
+445. Hala Soubhi Saeedi Ayyad, 25 (Female)
+
+446. Hala Saqer Hassan al Hayya, 29 (Female)
+
+447. Hani Mohammed Ahmed al Hallaq, 29
+
+448. Hiba Hamed Mohammed Alshiekh Khalil, 13 (Female)
+
+449. Yousif Ahmed Younis Mostafa, 62
+
+450. Yousif Salem Hamtou Habib, 62
+
+452. Joudat Tawfiq Ahmed Abou Jamaa, 24
+
+453. Tawfiq Ahmed Abou Jamaa, 5
+
+454. Haifaa Tawfiq Ahmed Abou Jamaa, 9 (Female)
+
+455. Yasmine Ahmed Salama Abou Jamaa, 25 (Female)
+
+456. Suhaila Bassam Ahmed Abou Jamaa, 35 (Female)
+
+457. Shaheenaz Waleed Mohammed Abou Jamaa, 1 (Female)
+
+459. Husam Husam Abou Qanees, 5
+
+461. Younis Ahmed Mousa Shaikh al-Eid, 23, Rafah
+
+462. Abdullah Tarad Abou Hajeer 16, Al Nusriyat
+
+463. Zakariah Masoud alAshkar, 24 Al Zaytoun
+
+464. Kamal Talal Hassam Almasri, 22, Bait Hanoun
+
+465. Raed Issam Dawood, 30, AlZaytoun
+
+466. Mahmoud Hassan Nakhla
+
+467. Kamal Masoud, 21, Al Zaytoun
+
+468. Saleh Badaoui, 31 Al Zaytoun
+
+469. Majdi Mahmoud Alyazaji, 56
+
+470. Mohammed Sameeh, Al Ghalban
+
+471. Karam Ibrahim Atiya, 25, east Khan Younis
+
+472. Nidal Ali Abou Diqa 26, east Khan Younis
+
+473. Nidal Jumaa Abou Assi 43, east Khan Younis
+
+474. Mayar Alyazaji 2, Al Karamah
+
+476. Mohammed Mahmoud AlMaghrabi, 24, Khan Younis
+
+477. Yasmine Nayef Alyazaji, Al Karamah (Female)
+
+478. Wajdi Alyazaji, Al Karamah
+
+479. Safinaz Alyazaji, Al Karamah
+
+480. Mahran Kamel Joundiya, 32, east Gaza (Female)
+
+481. Tamer Nayef Joundiya, 30, Al Shujayea
+
+482. Rahma Ahmed Joundiya 50, Al Shujayea
+
+483. Ibrahim Shubaan Bakroon 37, Al Shaaf
+
+484. Yousif Gazi Hamadiya 25, Al Shujayea
+
+485. Moataz Jamal Hamadiya 18, Al Shujayea
+
+486. Aed Jamal Hamadiya, 21, Al Shujayea
+
+487. Aya Yassir Alqasas (Female)
+
+488. Aisha Yassir alqasas, Al Qasas residence (Female)
+
+489. Nasma Eyad Alqasas, Al Qasas residence (Female)
+
+490. Lamiaa Eyad Alqasas, Al Qasas residence (Female)
+
+491. Atiya Yousif Dardooneh 26, Jabaliya (Female)
+
+492. Fatima Ahmed Alaraja, Rafah (Female)
+
+493. Esraa Alqasas, Al Qasas residence (Female)
+
+494. Yasmine Alqasa, Al Qasas residence (Female)
+
+495. Arwa Alqasas, Al Qasas residence (Female)
+
+496. Alia Siyam, Al Qasas residence (Female)
+
+497. Faiza Saber Siyam, Al Qasas residence (Female)
+
+498. Sumaya Siyam, Al Qasas residence (Female)
+
+499. Fadi Azmi Briyem, Al Sharqiya
+
+500. Othman Salem Bryiem, Al Sharqiya
+
+501. AbulMajeed Briyem, Al Sharqiya
+
+502. Jehad Mahmoud Al Maghrabi 22, Khan Younis
+
+503. Fadi Basheer Alabadela 22, Khan Younis
+
+504. Ibrahim Dieb Ahmed Alkilani 53, Burj Alsalam
+
+505. Mahmoud Shaaban Mohammed Dirbas 37, Burj Alsalam
+
+506. Yassir Ibrahim dieb Alkilani, 8, Burj Alsalam
+
+507. Elias Ibrahim Dieb Alkilani, 4, Burj Alsalam
+
+508. Tagreed Shaaban Mohammed Alkilani, 45, Burj Alsalam (Female)
+
+509. Sawsan Ibrahim Dieb Alkilani, 11, Burj Alsalam (Female)
+
+510. Reem Ibrahim Dieb Alkilani ,12, Burj Alsalam (Female)
+
+511. Ayda Shabaan Mohammed Derbas,47, Burj Alsalam (Female)
+
+512. Sura Shaaban Mohammed Dirbas, 41, Burj Alsalam (Female)
+
+513. Yaseen Ibrahim Dieb Alkilani, 9, Burj Alsalam (Female)
+
+514. Yenas Shaaban Mohammed Dirbas, 30, Burj Alsalam
+
+515. Wael Jamal Harb, 32
+
+516. Hassan Khodir Baker, 60, east Gaza
+
+517. Mahmoud Suleiman Abou Sabha, 55, Khan Younis
+
+518. Abdullah Ismeal Albahysi, 27, Dier Albalah
+
+519. Mosaab Saleh Salameh,19 , Khan Younis
+
+520. Mohammed Nasser Haroun 38, Al Nasriyat
+
+521. Naji Jamal Alfajam 26, Khan Younis
+
+522. Ibtihal Ibrahim AlRamahi, Dier Albalah
+
+523. Yousif Ibrahim AlRamahi,Deir Albalah
+
+524. Eman Ibrahim AlRamahi, Dier Albalah
+
+525. Salwa Abou Muneefi, Dier Albalah (Female)
+
+526. Samira Abou Muneefi, Dier Albalah
+
+527. Haitham Samir AlAga, 26, Khan Younis
+
+528. Waleed Sulieman Abou Thaher, 21, Khan Younis
+
+529. Yasmine Ahmed Abou Amoor, 25, Rafah
+
+530. Sameh Zaheer Alsuwafeeri, 29
+
+531. Mohammed Mousa Abou Fayyad, 36
+
+532. Fatima Hassan Azzam, 70, Al Zaytoun (Female)
+
+533. Mariam Hassan Azzam 50, Al Zaytoun (Female)
+
+534. Suha Naeem Al Kharwat 25, north Gaza (Female)
+
+535. Mona Rami Al Kharwat 4, north Gaza (Female)
+
+536. Aesha Yasser al-Qassas, Gaza City (Female)
+
+537. Nasma Iyad al-Qassas, Gaza City (Female)
+
+538. Lamyaa Iyad al-Qassas, Gaza City (Female)
+
+539. Israa al-Qassas, Gaza City (Female)
+
+540. Yasmin al-Qassas, Gaza City (Female)
+
+541. Arwa al-Qassas, Gaza City (Female)
+
+542. Aliaa al-Syam, Gaza City. (Female)
+
+543. Fayza al-Syam, Gaza City. (Female)
+
+544. Soumaya al-Syam, Gaza City. (Female)
+
+545. Fatima Ahmad al-Arja, Rafah. (Female)
+
+546. Atieh Youssef Dardouna, 26, Jabalia.
+
+550. Fadi Azmi Brayaem, Deir al-Balah
+
+551. Othman Salem Brayaem, Deir al-Balah
+
+552. Salem Abdel Majeed Brayaem, Deir al-Balah
+
+555. Ibrahim Dib Ahmad al-Kilani, 53, Gaza City
+
+556. Taghrid Shaaban Mohammed al-Kilani, 45, Gaza City (Female)
+
+557. Yaser Ibrahim Dib al-Kilani, 8, Gaza City
+
+558. Elias Ibrahim Dib al-Kilani, 4, Gaza City
+
+559. Sawsan Ibrahim Dib al-Kilani, 11, Gaza City (Female)
+
+560. Rim Ibrahim Dib al-Kilani, 12, Gaza City (Female)
+
+561. Yaseen Ibrahim Dib al-Kilani, 9, Gaza City (Female)
+
+562. Mahmoud Shaaban Mohammed Derbas, 37, Gaza City
+
+563. Aida Shaaban Mohammed Derbas, 47, Gaza City (Female)
+
+564. Soura Shaaban mohammed Derbas, 41, Gaza City (Female)
+
+565. Inas Shaaban Mohammed Derbas, 30, Gaza City
+
+566. Jihad Mahmoud al-Maghribi, 22, Khan Younis.
+
+567. Fadi Bashir al-Abadleh, 22, Khan Younis.
+
+571. Wael Jamal Harb, 32, Gaza.
+
+572. Hasan Khodor Bakr, 60, Gaza.
+
+573. Mahmoud Suleiman Abu Sobha, 55,  Khan Younis.
+
+574. Abdullah Ismail al-Bahisi, 27,  Deir al-Balah.
+
+575. Misaab Saleh Salameh, 19,  Khan Younis.
+
+576. Mohammed Nasr Haroun, 38,  al-Nsayrat.
+
+577. Naji Jamal al-Fajm, 26,  Khan Younis.
+
+578. Ibtihal Ibrahim al-Rimahi, Deir al-Balah.
+
+579. Youssef Ibrahim al-Rimahi, Deir al-Balah.
+
+580. Iman Ibrahim al-Rimahi, Deir al-Balah.
+
+581. Salwa Abu Monifi, Deir al-Balah. (Female)
+
+582. Samira Abu Monifi, Deir al-Balah. (Female)
+
+583. Haytham Samir al-Agha, 26, Khan Younis.
+
+584. Walid Suleiman Abu Daher, 21,  Khan Younis.
+
+585. Yasmin Ahmad Abu Mor, 25,  Rafah. (Female)
+
+586. Sameh Zahir al-Sowafiri, 29,  Rafah.
+
+587. Mohammed Moussa Abu Fayad, 36, Rafah.
+
+588. Fatima Hasan Azzam, 70, al-Zaytoun. (Female)
+
+589. Maryam Hasan Azzam, 50, al-Zaytoun. (Female)
+
+606. Soha Naim al-Kharwat, 25, north Gaza (Female)
+
+607. Mona Rami al-Kharwat, 4, north Gaza (Female)
+
+608. Ahmad Salah abu Sido, 17, al-Mahatta.
+
+609. Mahmoud Slim Mostafa Daraj, 22, Jabalia.
+
+610. Ibrahim Sobhi al-Firi, 25,  Beit Lahia.
+
+611. Ahmad Assaad al-Boudi, 24,  Beit Lahia.
+
+616. Hasan Shaaban Khamisi, 28, al-Maghazi camp.
+
+617. Tareq Fayeq Hajjaj, 22, Gaza.
+
+618. Ahmad Ziad Hajjaj, 21, Gaza.
+
+619. Mohammed Shahadeh Hajjaj, 31, Gaza.
+
+620. Fayza Saleh Abdul Rahman Hajjaj, 66, Gaza. (Female)
+
+621. Rawan Ziad Hajjaj, 15, Gaza. (Female)
+
+622. Youssef Mohammed Hajjaj, 28, Gaza.
+
+623. Hakema Nafea Abu Edwan, 75, Rafah. (Female)
+
+624. Najah Nafea Abu Edwan, 85, Rafah. (Female)
+
+625. Misaab Nafeth al-Ajala, 30, al-Shujayeh.
+
+626. Khalaf Atieh Abu Sanima, 18, Rafah.
+
+627. Khalil Atieh Abu Sanima, 20, Rafah.
